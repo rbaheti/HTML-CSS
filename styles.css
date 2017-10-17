@@ -1,0 +1,88 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", sans-serif;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+.background {
+  /* The image used */
+  background-image: url("backgroundImage.JPG");
+
+  /* Center and scale the image nicely */
+  background-size:cover;
+  background-position:center;
+  background-repeat: no-repeat;
+  height: 500px;
+  padding: 45px 75px;
+  margin: 0;
+  opacity: 0.9;
+  font-variant-alternates:normal;
+  background-blend-mode;
+}
+
+.menu-items {
+  display: inline-block;
+  vertical-align: top;
+  padding: 50px;
+  text-align: left;
+  font-family:cursive;
+}
+
+.menu-details {
+  width: 250px;
+}
+
+.font_color {
+  color:white;
+}
+
+a {
+  color:white;
+  font-size: 22px;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+
+}
+
+/* selected link */
+a:active {
+  color:aqua;
+
+}
+
+.menu-container {
+  display: flex;
+  justify-content: center;
+}
+
+.paragraph {
+  font-size: 28px;
+  display: flex;
+  justify-content: center;
+  max-width: 70%;
+  margin: auto;
+}
+
+.subtitle {
+  font-family: cursive;
+  font-weight:bold;
+  font-size: 32px;
+  display: flex;
+  justify-content: center;
+  max-width: 70%;
+  margin: auto;
+  color:black;
+}
+
+.menuDetails{
+  font-family: cursive;
+  color:gray;
+}
+
