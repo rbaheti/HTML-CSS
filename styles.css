@@ -10,7 +10,7 @@ h1 {
 
 .background {
   /* The image used */
-  background-image: url("backgroundImage.JPG");
+  background-image: url("Portfolio_Background_2.jpg");
 
   /* Center and scale the image nicely */
   background-size:cover;
@@ -19,7 +19,7 @@ h1 {
   height: 500px;
   padding: 45px 75px;
   margin: 0;
-  opacity: 0.9;
+  opacity: .9;
   font-variant-alternates:normal;
   background-blend-mode;
 }
@@ -86,3 +86,6 @@ a:active {
   color:gray;
 }
 
+.box {
+  
+}
