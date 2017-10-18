@@ -86,6 +86,27 @@ a:active {
   color:gray;
 }
 
-.box {
-  
+.flex-container-left {
+  /*display: -webkit-flex;*/
+  display: flex;
+  width: 400px;
+  height: 250px;
+  background-color: grey; 
+  float: left;
+}
+
+.flex-container-right {
+  /*display: -webkit-flex;*/
+  display: flex;
+  width: 400px;
+  height: 250px;
+  background-color: grey; 
+  float: right;
+}
+
+.flex-item {
+  background-color: cornflowerblue;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
 }
