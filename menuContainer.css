@@ -1,0 +1,41 @@
+body {
+	box-sizing: border-box;
+	min-width: 300px;
+	margin: 0;
+	background-color: #100d70;
+}
+
+.home-menu-container {
+	padding: 250px;
+}
+
+.header {
+	background-color: black;
+}
+.menuButtons {
+  	display: flex;
+  	text-align: center;
+  	flex-direction: row;
+  	justify-content: flex-end;
+  	margin: 10px;
+}
+
+.menuButtons div {
+  	padding: 10px;
+  	margin-left: 10px;
+  	width: 10%;
+  	color: #fff;
+  	border-radius: 10px;
+}
+#menu1 {
+  	background: #ff0088;
+}
+#menu2 {
+  	background: #c9386d;
+}
+#menu3 {
+  	background: #ff8800;
+}
+#menu4 {
+  	background: #e57aef;
+}
