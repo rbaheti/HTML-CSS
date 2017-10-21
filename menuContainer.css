@@ -5,10 +5,6 @@ body {
 	background-color: #100d70;
 }
 
-.home-menu-container {
-	padding: 250px;
-}
-
 .header {
 	background-color: black;
 }
@@ -39,3 +35,54 @@ body {
 #menu4 {
   	background: #e57aef;
 }
+
+.home-menu-container {
+	padding: 150px;
+	text-align: center;
+	color: white;
+}
+
+.home-menu-container-headingFontSize {
+	font-size: 300%;
+}
+
+.home-menu-container-subHeadingFontSize {
+	font-size: 150%;
+}
+
+.aboutMe-menu-container {
+	padding: 150px;
+	text-align: center;
+	color: white;
+	background-color: #fc755d;
+}
+
+.aboutMe-menu-container-headingFontSize {
+	font-size: 300%;
+}
+
+.aboutMe-menu-container-subHeadingFontSize {
+	font-size: 150%;
+}
+
+.projects-menu-container {
+	padding: 150px;
+	text-align: center;
+	color: white;
+	background-color: #fc755d;
+}
+
+.projects-menu-container-headingFontSize {
+	font-size: 300%;
+}
+
+.contactMe-menu-container {
+	padding: 150px;
+	text-align: center;
+	color: white;
+}
+
+.contactMe-menu-container-headingFontSize {
+	font-size: 150%;
+}
+
