@@ -76,6 +76,20 @@ body {
 	font-size: 300%;
 }
 
+.project-selection-container {
+	box-sizing: border-box;
+	display: inline-block;
+	clear: both;
+	width: 100%;
+	margin: 0;
+	position: relative;
+}
+
+.project-selection-container--bordered {
+	border: 2.5px solid black;
+	border-bottom: none;
+}
+
 .contactMe-container {
 	padding: 150px;
 	text-align: center;
