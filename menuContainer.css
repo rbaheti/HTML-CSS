@@ -86,3 +86,27 @@ body {
 	font-size: 150%;
 }
 
+.contact-container {
+  text-align:center;  
+}
+
+.contact-inner {
+  margin: auto;
+}
+
+.contact-element {
+  display: inline-block;
+  vertical-align: top;
+  padding: 20px;
+  color:gray;
+}
+
+form {
+  text-align: left;
+}
+
+.form-input-style {
+	padding:5px;
+	margin: 5px 0px 5px 0px;
+}
+
