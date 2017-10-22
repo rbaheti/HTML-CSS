@@ -30,79 +30,80 @@ body {
   	background: #c9386d;
 }
 #menu3 {
-  	background: #ff8800;
+  	background: #d17104;
 }
 #menu4 {
   	background: #e57aef;
 }
 
-.home-menu-container {
+.home-container {
 	padding: 150px;
 	text-align: center;
 	color: white;
 }
 
-.home-menu-container-headingFontSize {
+.home-container-headingFontSize {
 	font-size: 300%;
 }
 
-.home-menu-container-subHeadingFontSize {
+.home-container-subHeadingFontSize {
 	font-size: 150%;
 }
 
-.aboutMe-menu-container {
+.aboutMe-container {
 	padding: 150px;
 	text-align: center;
 	color: white;
-	background-color: #fc755d;
+	background-color: #c9386d;
 }
 
-.aboutMe-menu-container-headingFontSize {
+.aboutMe-container-headingFontSize {
 	font-size: 300%;
 }
 
-.aboutMe-menu-container-subHeadingFontSize {
+.aboutMe-container-subHeadingFontSize {
 	font-size: 150%;
 }
 
-.projects-menu-container {
+.projects-container {
 	padding: 150px;
 	text-align: center;
 	color: white;
-	background-color: #fc755d;
+	background-color: #d17104;
 }
 
-.projects-menu-container-headingFontSize {
+.projects-container-headingFontSize {
 	font-size: 300%;
 }
 
-.contactMe-menu-container {
+.contactMe-container {
 	padding: 150px;
 	text-align: center;
 	color: white;
+	background-color: #c9386d;
 }
 
-.contactMe-menu-container-headingFontSize {
+.contactMe-container-headingFontSize {
 	font-size: 150%;
 }
 
 .contact-container {
-  text-align:center;  
+	text-align:center;  
 }
 
 .contact-inner {
-  margin: auto;
+	margin: auto;
 }
 
 .contact-element {
-  display: inline-block;
-  vertical-align: top;
-  padding: 20px;
-  color:gray;
+	display: inline-block;
+	vertical-align: top;
+	padding: 20px;
+	color:white;
 }
 
 form {
-  text-align: left;
+	text-align: left;
 }
 
 .form-input-style {
